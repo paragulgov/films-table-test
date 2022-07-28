@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/films-table-test/static/css/main.e6c13ad2.css",
+    "main.js": "/films-table-test/static/js/main.feaaaa63.js",
+    "index.html": "/films-table-test/index.html",
+    "main.e6c13ad2.css.map": "/films-table-test/static/css/main.e6c13ad2.css.map",
+    "main.feaaaa63.js.map": "/films-table-test/static/js/main.feaaaa63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.feaaaa63.js"
+  ]
+}
